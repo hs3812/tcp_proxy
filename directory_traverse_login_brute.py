@@ -124,6 +124,8 @@ def bruter(words,ext=None):
 if __name__ == '__main__':
     words = build_(wordlist_file)
     exten = [".bal", ".txt", ".php", ".inc", ".html"]
+    brt_obj = login_brute(username,words)
+    brt_obj.run_bruter()
 
     for iter in range(Num_of_threads):
         th = threading.Thread(target=bruter, args=(words,exten,))
