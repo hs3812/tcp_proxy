@@ -9,3 +9,5 @@ It searches for files of some choices, over the downloaded web application file.
 A directory traverser login bruter
 
 It traverses directory and it can brute force login (http post)
+
+An unsandboxed keylogger
