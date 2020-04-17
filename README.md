@@ -15,3 +15,5 @@ An unsandboxed keylogger
 An arp poisoning 
 
 A SSH brute force login
+
+A ftp brute login. Scans for files 
