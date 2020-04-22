@@ -1,3 +1,4 @@
+
 A TCP_proxy.
 
 A musthave when wireshark isn't available.
@@ -23,4 +24,6 @@ A stackoverflow, orverflows app running on ftp port 21. Using shell code of
 reverse tcp bind. NOP slides until shellcode
 
 A crawler for pictures. Gets meta data of the pic
+
+A sql artifact scarper, looking for sql db of skype and firefox
 
